@@ -1,0 +1,6 @@
+bool get_path
+---
+std_msgs/Int32MultiArray waypoints
+Pathway[] path
+
+

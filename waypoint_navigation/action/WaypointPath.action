@@ -1,0 +1,9 @@
+# Goal definition
+CoordinateList[] path1
+CoordinateList[] path2
+---
+# Result definition
+int64 hov_time
+---
+# Feedback definition
+geometry_msgs/PoseStamped current_waypoint
